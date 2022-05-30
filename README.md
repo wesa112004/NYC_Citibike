@@ -46,6 +46,12 @@ The disparity between genders is great, suggesting that there are 941,841 more m
 <img width="1339" alt="Screen Shot 2022-05-29 at 6 42 59 PM" src="https://user-images.githubusercontent.com/100330488/170902727-4beac31e-0b9e-4552-9533-7614dae94e7c.png">
 
 
+One other recommendation would be to target groups based on age. According to the data, the majority of subscribers tend to be younger, born in the late 80s to early 90s whereas the most customers tend to be born in the late 60s. The younger population rides longer for trips less than 45 minutes; that is the subscribers tend to be younger and show a higher demand for services on trip durations less than 45 minutes compared to customers, who inherently make up the minority. Looking at the graph below, one area for further analysis would be an outreach program to advertise this service to those born after 1990 i.e the milennials whose customer base is a lot less than the subcribers at this age group. This may imply that this age group is more privy to other forms of transporation or services when visiting NYC, or are relatively less interested in a bikeshare program. Further development of the company to include tandem bikes or othertypes of bikes may interest this younger population:
+
+
+<img width="1489" alt="Screen Shot 2022-05-29 at 7 55 41 PM" src="https://user-images.githubusercontent.com/100330488/170909492-64e75fb2-d81c-400f-a7ac-7667ea3e26cf.png">
+
+
 
 
 
