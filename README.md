@@ -22,3 +22,7 @@ Males tend to check out more bikes than female riders:
 Males tend to be the dominant gender for subscribers and usage on all days of the week compared to females:
 
 <img width="1303" alt="UserType by gender and weekday usage" src="https://user-images.githubusercontent.com/100330488/170900116-cb550dbb-0c5e-4973-9757-1d5d1abd7041.png">
+
+The weekends around mid-day appear to be the most popular time to ride where the demand is the greatest:
+
+<img width="1222" alt="Day of the week demand" src="https://user-images.githubusercontent.com/100330488/170900244-9e78b87c-5b1c-420c-a46a-d2efaaa67099.png">
