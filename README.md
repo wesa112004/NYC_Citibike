@@ -2,7 +2,7 @@
 
 # The purpose of the analysis was to present data on NYC citibikes to investors in consideration for a start up bike sharing progeram in Des Moines using Tableau. Multiple worksheets were created, in addition to a story that paints a big picture of the data from the analysis.
 
-Tabluea link can be found here : https://public.tableau.com/app/profile/wes.adams8795/viz/CitybikeChallenge_16537918262970/NYCCitibikeData?publish=yes
+Tabluea link can be found here  : https://public.tableau.com/app/profile/wes.adams8795/viz/CitybikeChallenge_16537918262970/NYCCitibikeData?publish=yes
 
 ### RESULTS:
 The check out times by user shown below suggests that the peak times by users is around 5 minutes. That is, 5 minutes is the peak time using the rideshare service as noted below:
